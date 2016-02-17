@@ -1,2 +1,2 @@
-# htmlpractice
-i'm practicing html damnit
+# HTML Practice
+I'm practicing HTML (obviously).
